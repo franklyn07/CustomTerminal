@@ -1,0 +1,39 @@
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child process:Producer Started
+Producer Ended
+Child2 process:Consumer2 startedParent1 process:Consumer1 startedConsumer Ended
+Child process:Producer Started
+Producer Ended
+Child2 process:Consumer2 startedParent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child process:Producer Started
+Producer Ended
+Child2 process:Consumer2 startedParent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
+Parent1 process:Consumer1 startedConsumer Ended
+Child2 process:Consumer2 startedChild process:Producer Started
+Producer Ended
